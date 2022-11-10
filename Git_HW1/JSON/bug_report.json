@@ -1,0 +1,13 @@
+{ "Bug_report": {
+      "ID": "1",
+      "Title": "No single style of writing "202"",
+      "Enviroment": "Windows 10, Chrome v.107.0.5304.88",
+      "Steps to reproduce": "1. Open the site;
+                             2. Click to the "Больше причин" in module "Почему покупают воду 202".",
+      "Actual result": "In descriptions of points 7,13,14,18-22 don't have single style of writing "202"",
+      "Expected result": "In descriptions of points 7,13,14,18-22 have single style of writing "202"",
+      "Severity": "Minor",
+      "Priority": "Low",
+      "Attachment": "screen"
+      }
+}

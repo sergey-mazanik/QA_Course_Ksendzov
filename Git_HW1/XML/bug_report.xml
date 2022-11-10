@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ROOT>
+  <Bug_report>
+    <ID>1</ID>,
+    <Title>No single style of writing "202"</Title>
+    <Enviroment>Windows 10, Chrome v.107.0.5304.88</Enviroment>
+    <StepsToReproduce>1. Open the site; 2. Click to the "Больше причин" in module "Почему покупают воду 202".</StepsToReproduce>
+    <ActualResult>In descriptions of points 7,13,14,18-22 don't have single style of writing "202"</ActualResult>
+    <>ExpectedResult>In descriptions of points 7,13,14,18-22 have single style of writing "202"</ExpectedResult>
+    <Severity>Minor</Severity>
+    <Priority>Low</Priority>
+    <Attachment>screen</Attachment>
+   </Bug_report>
+<ROOT>

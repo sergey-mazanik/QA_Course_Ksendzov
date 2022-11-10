@@ -1,0 +1,5 @@
+FirstName - Sergey
+SecondName - Mazanik
+Age - 32
+Pets - 1
+Salary - 600

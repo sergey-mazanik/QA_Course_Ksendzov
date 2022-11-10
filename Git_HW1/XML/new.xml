@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ROOT>
+	<Name>First Name = Sergey Second Name = Mazanik</Name>
+	<Age>Age = 32</Age>
+	<Pets>Pets = 1</Pets>
+	<Salary>Salary = 600</Salary>
+</ROOT>
